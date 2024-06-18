@@ -55,6 +55,7 @@
 </head>
 
 <body>
+    <h1>this is a Clubs project</h1>
     <ul class="d-flex">
         <li><button id="club" class="btn btn-outline-primary mx-5">club</button></li>
         <li><button id="product" class="btn btn-outline-primary mx-5">product</button></li>
